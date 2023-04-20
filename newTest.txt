@@ -2,3 +2,5 @@ new string
 
 new string 2
 
+123
+123.
