@@ -7,3 +7,5 @@ new string 2 test
 new string
 
 one more string
+
+second more string
